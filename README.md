@@ -22,8 +22,9 @@ The idea of ​​this project is to build an application that enables the user 
 
 1- Splash_screen 
 
-https://github.com/NouraAljarba/Weather_Application/assets/108701880/18ec4d4a-941e-4607-b90e-8ca347db8049
 
+
+https://github.com/NouraAljarba/Weather_App/assets/108701880/43a5b815-e4f6-4fdd-9a45-63b24465148c
 
 
 
@@ -68,7 +69,7 @@ https://github.com/NouraAljarba/Weather_Application/assets/108701880/18ec4d4a-94
 
 # Application overview:
 
-https://github.com/NouraAljarba/Weather_Application/assets/108701880/349e23eb-8498-4c93-bfa1-364d5425e11d
+https://github.com/NouraAljarba/Weather_App/assets/108701880/70341c7e-b10e-40de-84a1-279c53a437a4
 
 
 
